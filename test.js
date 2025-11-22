@@ -3,7 +3,7 @@
 
 (function() {
   console.log("🔴 PROOF-OF-CONCEPT EXECUTED!");
-  console.log("This code came from rawgit.com");
+  console.log("This code came from my repo CSP-TESTER");
   console.log("It was loaded despite being from an untrusted source");
   console.log("This demonstrates the rawgit.com CSP vulnerability");
   
